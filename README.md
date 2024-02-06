@@ -70,12 +70,10 @@ Embedded graphic system, Interfacing over SPI, and building graphical UI using L
 - Helps to transfer Frame buffer to display without the intervention of the CPU					 								 		
 
 - To transfer graphic details from flash to Frame buffer without the intervention of the CPU			      
-			 			 					
-											
-											
-											
-											
-### Pixel formats (colour formats)											
+     
+		 
+		 
+## Pixel formats (colour formats)											
            
 The different pixel formats are shown below		
         
@@ -173,8 +171,8 @@ That would save a lot of memory, but there will not be any color. So, there is o
 In the following article, we will understand some more terminologies like PPI, Resolution, etc.		   		      
          
 				      
-
-**Comparison of different formats**	  
+         
+## Comparison of different formats	  
       
 Let’s compare. Let’s say your frame buffer resolution is 480×270. So, if you consider the pixel format RGB888, then the total memory consumed is 480x270x3. So, this gives you a number of pixels and each pixel consumes 3 bytes. 3805KiB is the total memory consumed.      
         
