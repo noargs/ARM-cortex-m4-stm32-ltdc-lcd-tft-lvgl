@@ -16,6 +16,6 @@ Download [Datasheet](http://www.lcdwiki.com/res/MSP2402/ILI9341_Datasheet.pdf), 
 				
 ### Connection details     
        
-<img src="lcd_connection_with_stm32f4discovery.png" alt="lcd_connection_with_stm32f4discovery" title="LCD connection with stm32f4discovery">				      
+<img src="images/lcd_connection_with_stm32f4discovery.png" alt="lcd_connection_with_stm32f4discovery" title="LCD connection with stm32f4discovery">				      
 				 				   
 
