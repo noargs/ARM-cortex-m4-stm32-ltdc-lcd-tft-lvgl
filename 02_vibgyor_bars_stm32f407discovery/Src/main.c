@@ -3,6 +3,8 @@
 #include "stm32f407xx.h"
 #include "reg_util.h"
 
+#include "bsp_lcd.h"
+
 void SystemClock_Setup(void);
 
 int main(void)
